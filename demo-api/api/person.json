@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "age": 28,
+      "gender": "Female",
+      "occupation": "Software Engineer",
+      "bio": "Passionate about AI and machine learning, loves coding and coffee."
+    },
+    {
+      "id": 2,
+      "name": "Michael Smith",
+      "age": 35,
+      "gender": "Male",
+      "occupation": "Doctor",
+      "bio": "Cardiologist dedicated to saving lives and improving healthcare."
+    },
+    {
+      "id": 3,
+      "name": "Samantha Lee",
+      "age": 24,
+      "gender": "Female",
+      "occupation": "Graphic Designer",
+      "bio": "Creative thinker with a love for colors, art, and aesthetics."
+    },
+    {
+      "id": 4,
+      "name": "Daniel Carter",
+      "age": 42,
+      "gender": "Male",
+      "occupation": "Entrepreneur",
+      "bio": "Founder of multiple startups, always looking for the next big idea."
+    },
+    {
+      "id": 5,
+      "name": "Jessica Brown",
+      "age": 31,
+      "gender": "Female",
+      "occupation": "Marketing Manager",
+      "bio": "Expert in digital marketing and social media trends."
+    },
+    {
+      "id": 6,
+      "name": "William Davis",
+      "age": 45,
+      "gender": "Male",
+      "occupation": "Professor",
+      "bio": "Teaches philosophy, loves discussing deep questions about life."
+    },
+    {
+      "id": 7,
+      "name": "Emily Wilson",
+      "age": 29,
+      "gender": "Female",
+      "occupation": "Journalist",
+      "bio": "Investigative journalist passionate about uncovering the truth."
+    },
+    {
+      "id": 8,
+      "name": "Chris Evans",
+      "age": 38,
+      "gender": "Male",
+      "occupation": "Chef",
+      "bio": "Loves experimenting with flavors and creating culinary masterpieces."
+    },
+    {
+      "id": 9,
+      "name": "Sarah Martinez",
+      "age": 26,
+      "gender": "Female",
+      "occupation": "Architect",
+      "bio": "Designs modern, sustainable buildings with innovative ideas."
+    },
+    {
+      "id": 10,
+      "name": "Robert Johnson",
+      "age": 50,
+      "gender": "Male",
+      "occupation": "Lawyer",
+      "bio": "Specializes in criminal defense and civil rights cases."
+    },
+    {
+      "id": 11,
+      "name": "Anna Garcia",
+      "age": 33,
+      "gender": "Female",
+      "occupation": "Data Scientist",
+      "bio": "Works with big data and AI to solve real-world problems."
+    },
+    {
+      "id": 12,
+      "name": "David White",
+      "age": 40,
+      "gender": "Male",
+      "occupation": "Pilot",
+      "bio": "Flies commercial planes and enjoys traveling the world."
+    },
+    {
+      "id": 13,
+      "name": "Olivia Roberts",
+      "age": 27,
+      "gender": "Female",
+      "occupation": "Musician",
+      "bio": "Plays the violin and composes classical music."
+    },
+    {
+      "id": 14,
+      "name": "James Clark",
+      "age": 36,
+      "gender": "Male",
+      "occupation": "Police Officer",
+      "bio": "Dedicated to keeping the city safe and serving the community."
+    },
+    {
+      "id": 15,
+      "name": "Sophia Miller",
+      "age": 23,
+      "gender": "Female",
+      "occupation": "Photographer",
+      "bio": "Captures stunning moments through her lens."
+    },
+    {
+      "id": 16,
+      "name": "Benjamin Scott",
+      "age": 39,
+      "gender": "Male",
+      "occupation": "Fitness Trainer",
+      "bio": "Helps people achieve their health and fitness goals."
+    },
+    {
+      "id": 17,
+      "name": "Ethan Walker",
+      "age": 34,
+      "gender": "Male",
+      "occupation": "Engineer",
+      "bio": "Builds innovative tech solutions for a better future."
+    },
+    {
+      "id": 18,
+      "name": "Isabella Harris",
+      "age": 30,
+      "gender": "Female",
+      "occupation": "Fashion Designer",
+      "bio": "Creates stylish and trend-setting clothing lines."
+    },
+    {
+      "id": 19,
+      "name": "Lucas Martin",
+      "age": 37,
+      "gender": "Male",
+      "occupation": "Author",
+      "bio": "Writes thrilling novels and thought-provoking books."
+    },
+    {
+      "id": 20,
+      "name": "Mia Thompson",
+      "age": 28,
+      "gender": "Female",
+      "occupation": "Psychologist",
+      "bio": "Passionate about mental health and helping people thrive."
+    }
+  ]
+  

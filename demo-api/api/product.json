@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 1200.99,
+      "available": true,
+      "description": "A powerful laptop with high performance for work and gaming."
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 899.99,
+      "available": true,
+      "description": "A sleek smartphone with an advanced camera and fast processor."
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "category": "Electronics",
+      "price": 199.99,
+      "available": true,
+      "description": "Noise-canceling wireless headphones with high-quality sound."
+    },
+    {
+      "id": 4,
+      "name": "Smartwatch",
+      "category": "Electronics",
+      "price": 249.99,
+      "available": false,
+      "description": "A stylish smartwatch with fitness tracking and notifications."
+    },
+    {
+      "id": 5,
+      "name": "Coffee Maker",
+      "category": "Home Appliances",
+      "price": 79.99,
+      "available": true,
+      "description": "A modern coffee maker for brewing the perfect cup every time."
+    },
+    {
+      "id": 6,
+      "name": "Refrigerator",
+      "category": "Home Appliances",
+      "price": 1099.99,
+      "available": true,
+      "description": "A spacious and energy-efficient refrigerator with smart features."
+    },
+    {
+      "id": 7,
+      "name": "Microwave Oven",
+      "category": "Home Appliances",
+      "price": 199.99,
+      "available": true,
+      "description": "A high-power microwave for quick and efficient cooking."
+    },
+    {
+      "id": 8,
+      "name": "Gaming Console",
+      "category": "Gaming",
+      "price": 499.99,
+      "available": false,
+      "description": "A next-gen gaming console with stunning graphics and speed."
+    },
+    {
+      "id": 9,
+      "name": "Electric Guitar",
+      "category": "Musical Instruments",
+      "price": 599.99,
+      "available": true,
+      "description": "A high-quality electric guitar for professionals and beginners."
+    },
+    {
+      "id": 10,
+      "name": "Running Shoes",
+      "category": "Sportswear",
+      "price": 129.99,
+      "available": true,
+      "description": "Comfortable and durable running shoes for athletes."
+    },
+    {
+      "id": 11,
+      "name": "Backpack",
+      "category": "Accessories",
+      "price": 49.99,
+      "available": true,
+      "description": "A stylish and durable backpack for everyday use."
+    },
+    {
+      "id": 12,
+      "name": "Washing Machine",
+      "category": "Home Appliances",
+      "price": 699.99,
+      "available": true,
+      "description": "A fully automatic washing machine with multiple wash modes."
+    },
+    {
+      "id": 13,
+      "name": "LED TV",
+      "category": "Electronics",
+      "price": 799.99,
+      "available": true,
+      "description": "A 55-inch LED TV with 4K resolution and smart features."
+    },
+    {
+      "id": 14,
+      "name": "Desk Chair",
+      "category": "Furniture",
+      "price": 149.99,
+      "available": true,
+      "description": "An ergonomic office chair with lumbar support."
+    },
+    {
+      "id": 15,
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 89.99,
+      "available": true,
+      "description": "A portable Bluetooth speaker with deep bass and clear sound."
+    },
+    {
+      "id": 16,
+      "name": "Tablet",
+      "category": "Electronics",
+      "price": 599.99,
+      "available": false,
+      "description": "A high-performance tablet with a stunning display."
+    },
+    {
+      "id": 17,
+      "name": "Sunglasses",
+      "category": "Accessories",
+      "price": 59.99,
+      "available": true,
+      "description": "Stylish sunglasses with UV protection."
+    },
+    {
+      "id": 18,
+      "name": "Digital Camera",
+      "category": "Photography",
+      "price": 899.99,
+      "available": true,
+      "description": "A professional digital camera with advanced lens options."
+    },
+    {
+      "id": 19,
+      "name": "Treadmill",
+      "category": "Fitness Equipment",
+      "price": 999.99,
+      "available": true,
+      "description": "A high-quality treadmill with multiple workout programs."
+    },
+    {
+      "id": 20,
+      "name": "Air Fryer",
+      "category": "Home Appliances",
+      "price": 129.99,
+      "available": true,
+      "description": "A versatile air fryer for healthy and crispy meals."
+    }
+  ]
+  

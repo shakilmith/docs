@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "Apple",
+      "color": "Red",
+      "taste": "Sweet",
+      "origin": "Central Asia",
+      "description": "A crunchy and sweet fruit rich in fiber and antioxidants."
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "color": "Yellow",
+      "taste": "Sweet",
+      "origin": "Southeast Asia",
+      "description": "A soft and creamy fruit packed with potassium."
+    },
+    {
+      "id": 3,
+      "name": "Orange",
+      "color": "Orange",
+      "taste": "Citrusy",
+      "origin": "China",
+      "description": "A juicy fruit known for its high vitamin C content."
+    },
+    {
+      "id": 4,
+      "name": "Strawberry",
+      "color": "Red",
+      "taste": "Sweet and Tangy",
+      "origin": "Europe",
+      "description": "A heart-shaped berry packed with vitamins and antioxidants."
+    },
+    {
+      "id": 5,
+      "name": "Mango",
+      "color": "Yellow",
+      "taste": "Sweet",
+      "origin": "South Asia",
+      "description": "The king of fruits, loved for its juicy and tropical flavor."
+    },
+    {
+      "id": 6,
+      "name": "Pineapple",
+      "color": "Yellow",
+      "taste": "Sweet and Tangy",
+      "origin": "South America",
+      "description": "A tropical fruit known for its refreshing and tangy taste."
+    },
+    {
+      "id": 7,
+      "name": "Grapes",
+      "color": "Green or Purple",
+      "taste": "Sweet",
+      "origin": "Middle East",
+      "description": "A small, juicy fruit often used to make wine."
+    },
+    {
+      "id": 8,
+      "name": "Watermelon",
+      "color": "Green (outside), Red (inside)",
+      "taste": "Sweet",
+      "origin": "Africa",
+      "description": "A hydrating fruit with a high water content."
+    },
+    {
+      "id": 9,
+      "name": "Blueberry",
+      "color": "Blue",
+      "taste": "Sweet and Tart",
+      "origin": "North America",
+      "description": "A small, nutrient-rich berry packed with antioxidants."
+    },
+    {
+      "id": 10,
+      "name": "Kiwi",
+      "color": "Brown (outside), Green (inside)",
+      "taste": "Sweet and Tart",
+      "origin": "China",
+      "description": "A small fruit with a unique tangy taste and high vitamin C."
+    },
+    {
+      "id": 11,
+      "name": "Pomegranate",
+      "color": "Red",
+      "taste": "Sweet and Tart",
+      "origin": "Persia",
+      "description": "A fruit filled with juicy red seeds rich in antioxidants."
+    },
+    {
+      "id": 12,
+      "name": "Peach",
+      "color": "Orange-Pink",
+      "taste": "Sweet",
+      "origin": "China",
+      "description": "A juicy and soft fruit with a fragrant aroma."
+    },
+    {
+      "id": 13,
+      "name": "Cherry",
+      "color": "Red",
+      "taste": "Sweet and Tart",
+      "origin": "Europe and Asia",
+      "description": "A small, juicy fruit often used in desserts."
+    },
+    {
+      "id": 14,
+      "name": "Coconut",
+      "color": "Brown (outside), White (inside)",
+      "taste": "Mildly Sweet",
+      "origin": "Tropical Regions",
+      "description": "A versatile fruit known for its refreshing water and rich flesh."
+    },
+    {
+      "id": 15,
+      "name": "Papaya",
+      "color": "Orange",
+      "taste": "Sweet",
+      "origin": "Central America",
+      "description": "A tropical fruit with digestive benefits."
+    },
+    {
+      "id": 16,
+      "name": "Fig",
+      "color": "Purple or Green",
+      "taste": "Sweet",
+      "origin": "Middle East",
+      "description": "A soft and nutritious fruit with edible seeds."
+    },
+    {
+      "id": 17,
+      "name": "Guava",
+      "color": "Green (outside), Pink or White (inside)",
+      "taste": "Sweet and Tangy",
+      "origin": "Central America",
+      "description": "A fragrant fruit packed with vitamin C."
+    },
+    {
+      "id": 18,
+      "name": "Dragon Fruit",
+      "color": "Pink (outside), White or Red (inside)",
+      "taste": "Mildly Sweet",
+      "origin": "Central America",
+      "description": "A visually striking fruit with a delicate taste."
+    },
+    {
+      "id": 19,
+      "name": "Lychee",
+      "color": "Red (outside), White (inside)",
+      "taste": "Sweet",
+      "origin": "China",
+      "description": "A juicy and aromatic fruit with a floral taste."
+    },
+    {
+      "id": 20,
+      "name": "Blackberry",
+      "color": "Black",
+      "taste": "Sweet and Tart",
+      "origin": "Europe",
+      "description": "A juicy berry rich in vitamins and antioxidants."
+    }
+  ]
+  

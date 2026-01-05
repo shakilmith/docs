@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "genre": "Science Fiction",
+    "release_year": 2010,
+    "director": "Christopher Nolan",
+    "description": "A skilled thief enters dreams to steal secrets."
+  },
+  {
+    "id": 2,
+    "title": "The Dark Knight",
+    "genre": "Action",
+    "release_year": 2008,
+    "director": "Christopher Nolan",
+    "description": "Batman battles the Joker in a crime-ridden Gotham."
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "genre": "Science Fiction",
+    "release_year": 2014,
+    "director": "Christopher Nolan",
+    "description": "A team of explorers travels through a wormhole in space."
+  },
+  {
+    "id": 4,
+    "title": "Titanic",
+    "genre": "Romance",
+    "release_year": 1997,
+    "director": "James Cameron",
+    "description": "A tragic love story set on the ill-fated Titanic."
+  },
+  {
+    "id": 5,
+    "title": "The Shawshank Redemption",
+    "genre": "Drama",
+    "release_year": 1994,
+    "director": "Frank Darabont",
+    "description": "A banker is sentenced to life in Shawshank prison."
+  },
+  {
+    "id": 6,
+    "title": "The Godfather",
+    "genre": "Crime",
+    "release_year": 1972,
+    "director": "Francis Ford Coppola",
+    "description": "The story of a powerful mafia family in America."
+  },
+  {
+    "id": 7,
+    "title": "Forrest Gump",
+    "genre": "Drama",
+    "release_year": 1994,
+    "director": "Robert Zemeckis",
+    "description": "A slow-witted but kind-hearted man experiences history."
+  },
+  {
+    "id": 8,
+    "title": "The Matrix",
+    "genre": "Science Fiction",
+    "release_year": 1999,
+    "director": "The Wachowskis",
+    "description": "A hacker discovers the truth about reality."
+  },
+  {
+    "id": 9,
+    "title": "Jurassic Park",
+    "genre": "Adventure",
+    "release_year": 1993,
+    "director": "Steven Spielberg",
+    "description": "Dinosaurs are brought back to life in a theme park."
+  },
+  {
+    "id": 10,
+    "title": "Avatar",
+    "genre": "Science Fiction",
+    "release_year": 2009,
+    "director": "James Cameron",
+    "description": "A marine on an alien planet faces a difficult choice."
+  },
+  {
+    "id": 11,
+    "title": "Pulp Fiction",
+    "genre": "Crime",
+    "release_year": 1994,
+    "director": "Quentin Tarantino",
+    "description": "Intertwining stories of crime in Los Angeles."
+  },
+  {
+    "id": 12,
+    "title": "The Lion King",
+    "genre": "Animation",
+    "release_year": 1994,
+    "director": "Roger Allers, Rob Minkoff",
+    "description": "A young lion cub grows into his destiny as king."
+  },
+  {
+    "id": 13,
+    "title": "Gladiator",
+    "genre": "Action",
+    "release_year": 2000,
+    "director": "Ridley Scott",
+    "description": "A betrayed general fights as a gladiator in Rome."
+  },
+  {
+    "id": 14,
+    "title": "Saving Private Ryan",
+    "genre": "War",
+    "release_year": 1998,
+    "director": "Steven Spielberg",
+    "description": "A group of soldiers searches for a missing paratrooper."
+  },
+  {
+    "id": 15,
+    "title": "The Avengers",
+    "genre": "Action",
+    "release_year": 2012,
+    "director": "Joss Whedon",
+    "description": "Superheroes team up to save the world from destruction."
+  },
+  {
+    "id": 16,
+    "title": "Spider-Man: No Way Home",
+    "genre": "Superhero",
+    "release_year": 2021,
+    "director": "Jon Watts",
+    "description": "Spider-Man faces multiverse villains in a thrilling adventure."
+  },
+  {
+    "id": 17,
+    "title": "The Silence of the Lambs",
+    "genre": "Thriller",
+    "release_year": 1991,
+    "director": "Jonathan Demme",
+    "description": "An FBI trainee seeks help from a cannibalistic killer."
+  },
+  {
+    "id": 18,
+    "title": "The Departed",
+    "genre": "Crime",
+    "release_year": 2006,
+    "director": "Martin Scorsese",
+    "description": "An undercover cop and a mole struggle in Boston's mafia."
+  },
+  {
+    "id": 19,
+    "title": "Toy Story",
+    "genre": "Animation",
+    "release_year": 1995,
+    "director": "John Lasseter",
+    "description": "Toys come to life when their owner isn't around."
+  },
+  {
+    "id": 20,
+    "title": "Django Unchained",
+    "genre": "Western",
+    "release_year": 2012,
+    "director": "Quentin Tarantino",
+    "description": "A freed slave sets out to rescue his wife."
+  }
+]

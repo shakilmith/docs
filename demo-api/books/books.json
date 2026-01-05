@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Classic",
+      "year": 1925,
+      "description": "A novel about the American Dream and the roaring twenties."
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "year": 1960,
+      "description": "A gripping story about racial injustice in the Deep South."
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "year": 1949,
+      "description": "A dystopian novel about totalitarian surveillance and control."
+    },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "year": 1813,
+      "description": "A love story that explores themes of class and societal expectations."
+    },
+    {
+      "id": 5,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "year": 1951,
+      "description": "A story about teenage angst and rebellion."
+    },
+    {
+      "id": 6,
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "genre": "Adventure",
+      "year": 1851,
+      "description": "A tale of obsession and revenge on the high seas."
+    },
+    {
+      "id": 7,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "year": 1937,
+      "description": "A fantasy adventure about Bilbo Baggins and his journey."
+    },
+    {
+      "id": 8,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "genre": "Dystopian",
+      "year": 1932,
+      "description": "A futuristic novel about a genetically engineered society."
+    },
+    {
+      "id": 9,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "year": 1954,
+      "description": "An epic high fantasy trilogy about the battle for Middle-earth."
+    },
+    {
+      "id": 10,
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "genre": "Dystopian",
+      "year": 1953,
+      "description": "A novel about censorship and the power of books."
+    },
+    {
+      "id": 11,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Philosophical",
+      "year": 1988,
+      "description": "A journey of self-discovery and following one's dreams."
+    },
+    {
+      "id": 12,
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Psychological Fiction",
+      "year": 1866,
+      "description": "A psychological exploration of guilt and redemption."
+    },
+    {
+      "id": 13,
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Philosophical Fiction",
+      "year": 1880,
+      "description": "A complex novel exploring morality, faith, and free will."
+    },
+    {
+      "id": 14,
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "genre": "Romance",
+      "year": 1847,
+      "description": "A story of love, independence, and self-respect."
+    },
+    {
+      "id": 15,
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "genre": "Historical Fiction",
+      "year": 1869,
+      "description": "A sweeping narrative of love and war in Russia."
+    },
+    {
+      "id": 16,
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "genre": "Gothic Fiction",
+      "year": 1818,
+      "description": "A tale of ambition, science, and consequences."
+    },
+    {
+      "id": 17,
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "genre": "Horror",
+      "year": 1897,
+      "description": "A gothic horror story introducing Count Dracula."
+    },
+    {
+      "id": 18,
+      "title": "The Odyssey",
+      "author": "Homer",
+      "genre": "Epic Poetry",
+      "year": -800,
+      "description": "An ancient Greek epic poem about Odysseus's journey home."
+    },
+    {
+      "id": 19,
+      "title": "The Divine Comedy",
+      "author": "Dante Alighieri",
+      "genre": "Epic Poetry",
+      "year": 1320,
+      "description": "A journey through Hell, Purgatory, and Paradise."
+    },
+    {
+      "id": 20,
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "genre": "Gothic Romance",
+      "year": 1847,
+      "description": "A tale of passion, revenge, and haunting love."
+    }
+  ]
+  

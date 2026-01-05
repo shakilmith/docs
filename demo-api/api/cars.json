@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "make": "Tesla",
+      "model": "Model S",
+      "year": 2022,
+      "type": "Electric",
+      "description": "A luxury electric sedan with long-range capabilities."
+    },
+    {
+      "id": 2,
+      "make": "Ford",
+      "model": "Mustang",
+      "year": 2021,
+      "type": "Sports",
+      "description": "An iconic American muscle car with powerful performance."
+    },
+    {
+      "id": 3,
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": 2023,
+      "type": "Sedan",
+      "description": "A reliable and fuel-efficient compact sedan."
+    },
+    {
+      "id": 4,
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "year": 2022,
+      "type": "Sports",
+      "description": "A high-performance sports car with aggressive styling."
+    },
+    {
+      "id": 5,
+      "make": "BMW",
+      "model": "M3",
+      "year": 2023,
+      "type": "Luxury",
+      "description": "A performance-oriented luxury sedan with precision handling."
+    },
+    {
+      "id": 6,
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": 2022,
+      "type": "Luxury",
+      "description": "A refined luxury sedan with advanced technology."
+    },
+    {
+      "id": 7,
+      "make": "Audi",
+      "model": "A4",
+      "year": 2023,
+      "type": "Luxury",
+      "description": "A premium sedan offering comfort and sporty performance."
+    },
+    {
+      "id": 8,
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2023,
+      "type": "Sedan",
+      "description": "A popular compact sedan known for reliability and efficiency."
+    },
+    {
+      "id": 9,
+      "make": "Nissan",
+      "model": "GT-R",
+      "year": 2022,
+      "type": "Sports",
+      "description": "A high-performance sports car known as 'Godzilla'."
+    },
+    {
+      "id": 10,
+      "make": "Porsche",
+      "model": "911",
+      "year": 2023,
+      "type": "Sports",
+      "description": "A legendary sports car with an iconic design."
+    },
+    {
+      "id": 11,
+      "make": "Lamborghini",
+      "model": "Huracan",
+      "year": 2023,
+      "type": "Supercar",
+      "description": "A high-performance supercar with breathtaking speed."
+    },
+    {
+      "id": 12,
+      "make": "Ferrari",
+      "model": "488 GTB",
+      "year": 2022,
+      "type": "Supercar",
+      "description": "A powerful supercar with a twin-turbo V8 engine."
+    },
+    {
+      "id": 13,
+      "make": "Subaru",
+      "model": "WRX",
+      "year": 2023,
+      "type": "Sports",
+      "description": "A turbocharged sedan with rally-inspired performance."
+    },
+    {
+      "id": 14,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "year": 2023,
+      "type": "SUV",
+      "description": "An off-road legend built for adventure."
+    },
+    {
+      "id": 15,
+      "make": "Toyota",
+      "model": "Land Cruiser",
+      "year": 2022,
+      "type": "SUV",
+      "description": "A rugged and capable full-size SUV."
+    },
+    {
+      "id": 16,
+      "make": "Ford",
+      "model": "F-150",
+      "year": 2023,
+      "type": "Truck",
+      "description": "America's best-selling pickup truck."
+    },
+    {
+      "id": 17,
+      "make": "Rivian",
+      "model": "R1T",
+      "year": 2023,
+      "type": "Electric Truck",
+      "description": "An all-electric adventure truck with impressive off-road capabilities."
+    },
+    {
+      "id": 18,
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": 2023,
+      "type": "Hatchback",
+      "description": "A fun-to-drive hot hatch with great handling."
+    },
+    {
+      "id": 19,
+      "make": "Hyundai",
+      "model": "Ioniq 5",
+      "year": 2023,
+      "type": "Electric",
+      "description": "A stylish and efficient electric SUV."
+    },
+    {
+      "id": 20,
+      "make": "Mazda",
+      "model": "MX-5 Miata",
+      "year": 2023,
+      "type": "Convertible",
+      "description": "A lightweight roadster with pure driving pleasure."
+    }
+  ]
+  
