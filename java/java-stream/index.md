@@ -1,15 +1,14 @@
 # Java Stream
 
-
 In java, Stream operations are composed into a pipeline, through which data will flow and it provides predefined functions to operate on the data.
 
 The package **java.util.stream.*;** provides few interfaces and classes to work with stream.
 
 A stream pipeline consists of three things.
 
-1) A data source: A data source can be an Array, A collection (List, Set, Map..), a generator function, an I/O channel etc.
+**1) A data source:** A data source can be an Array, A collection (List, Set, Map..), a generator function, an I/O channel etc.
 
-2) Zero or more intermediate operations: It transforms a stream into another stream consisting of the results.
+**2) Zero or more intermediate operations:** It transforms a stream into another stream consisting of the results.
 The useful intermediate operations are:
 ¡) map():
 ¡¡) filter():
@@ -18,32 +17,31 @@ The useful intermediate operations are:
 v) limit():
 v¡) skip():
 
-3) Terminal: It is the last part of a stream operation and should be written at last. It produces the result or side effects. But there is only one terminal operation possible in a stream.
+**3) Terminal:** It is the last part of a stream operation and should be written at last. It produces the result or side effects. But there is only one terminal operation possible in a stream.
 
 The useful terminal operations are:
-i) collect():
-ii) forEach():
-iii) reduce():
-iv) count():
-v) findFirst():
-vi) findAny():
-vii) Max()/Min():
-viii) toArray():
-ix) anyMatch():
+i) **collect()**
+ii) **forEach()**
+iii) **reduce()**
+iv) **count()**
+v) **findFirst()**
+vi) **findAny()**
+vii) **Max()/Min()**
+viii) **toArray()**
+ix) **anyMatch()**
 etc.
 
 **Note:** Streams are lazy; computation on the source data is only performed when the terminal operation is initiated/called, and source elements are consumed only as needed.
 
 Remember that, a stream can not be reused means it should be operated on (invoking an intermediate or terminal stream operation) only once.
 
+Stream pipelines may execute either sequentially or in parallel. Streams are created with an initial choice of sequential or parallel execution. (For example, **Collection.stream()** creates a sequential stream, and Collection.parallelStream() creates a parallel one.)
 
-Stream pipelines may execute either sequentially or in parallel. Streams are created with an initial choice of sequential or parallel execution. (For example, Collection.stream() creates a sequential stream, and Collection.parallelStream() creates a parallel one.)
-
-## Java Stream examples:
+### Java Stream examples
 
 Let's create a List of integer data and invoke the mechanism of stream in it.
 
-## Returns a stream of data without using an intermediate operations.
+### Returns a stream of data without using an intermediate operations.
 
 ```
 import java.util.List;
@@ -68,7 +66,7 @@ public class Main{
  */
 ```
 
-## Create a List of Integer and multiply each elements by 2
+### Create a List of Integer and multiply each elements by 2
 
 ```
 import java.util.List;
@@ -96,7 +94,7 @@ import java.util.List;
   */
 ```
 
-## Create a List of integer and returns the result of square and cube of each elements
+### Create a List of integer and returns the result of square and cube of each elements
 
 For achieving this we must use intermediate operator like map() and inside the parentheses we use lambda expression as function. We can say it computational operation as well.
 
@@ -136,7 +134,7 @@ import java.util.List;
 
 ## Using forEach() loop
 
-collect(Collectors.toList()) returns an ArrayList overall. But for iterating the elements of a collections we can use forEach() loop as a terminal operation in a stream.
+**collect(Collectors.toList())** returns an ArrayList overall. But for iterating the elements of a collections we can use forEach() loop as a terminal operation in a stream.
 
 ```
 import java.util.List;
@@ -166,7 +164,7 @@ public class Main{
  */
 ```
 
-The above one can also be written like this: (we also use here method reference instead of lambda expression)
+The above one can also be written like this: (we can also use here method reference instead of lambda expression)
 
 ```
 import java.util.List;
@@ -191,7 +189,7 @@ public class Main{
 ```
 
 
-## Let's modify the above example using the intermediate map() and filter() operations together.
+### Let's modify the above example using the intermediate map() and filter() operations together.
 
 Note: the filter() intermediate method needs a predicate to perform operations on the elements of the list. (It's should be boolean expression or more concisely we can say it is used to provide certain condition over elements of the current Collections)
 
@@ -215,11 +213,15 @@ public class Main{
  */
 ```
 
-**Note:** Map(): It is an intermediate operation. It returns a stream consisting of the results of applying the given function (lambda expression..) to the elements of the current stream.
-filter(): It is also an intermediate operation of a stream. It returns a stream consisting of the elements of the current stream that match the given predicate (provides certain condition over elements).
-forEach(): It is a terminal operation, can be written only once. It helps to iterate the computational elements of the current stream and returns the result.
+Here, things you should remember while using stream,
 
-## Filter the current list using filter() method
+**map():** It is an intermediate operation. It returns a stream consisting of the results of applying the given function (lambda expression..) to the elements of the current stream.
+
+**filter():** It is also an intermediate operation of a stream. It returns a stream consisting of the elements of the current stream that match the given predicate (provides certain condition over elements).
+
+**forEach():** It is a terminal operation, can be written only once. It helps to iterate the computational elements of the current stream and returns the result.
+
+### Filter the current list using filter() method
 
 In this example we return a result that contains certain characters using filter() method of a stream.
 
@@ -242,7 +244,7 @@ public class Main{
  */
 ```
 
-## Using count() method
+### Using count() method
 
 Let's calculate the how many elements we have in our predefined collection...
 
@@ -292,9 +294,9 @@ public class Main{
  */
 ```
 
-## Print the summation and average using stream sum() method for the provided list.
+### Print the summation and average using stream sum() method for the provided list.
 
-Let's first of all, we see how we can print the summation of given list of numbers or Integers without using stream sum() method. (Yes, we have to write down few more lines of code!)
+Let's first of all, we see how we can print the summation of given list of numbers or Integers without using stream **sum()** method. (Yes, we have to write down few more lines of code!)
 
 
 ```
@@ -360,7 +362,7 @@ public class Main{
  */
 ```
 
-Likewise the above program, it is also possible to get the average of given list of numbers. Here we will use the average() method but it's type is double, thus we convert the Integer to Double by mapToDouble() method including method reference.
+Likewise the above program, it is also possible to get the average of given list of numbers. Here we will use the average() method but it's type is double, thus we convert the Integer to Double by **mapToDouble()** method including method reference.
 
 ```
 import java.util.*;
@@ -385,4 +387,4 @@ public class Main{
  * Average of the given numbers: 30.0
  */
 ```
-Home Page | Privacy policy
+

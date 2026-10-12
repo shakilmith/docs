@@ -1,4 +1,4 @@
-## 1: Write a Dialogue Street Children
+## 1: Write a Dialogue  about Street Children
 
 Myself: Hello! Salam, how are you? How do you collect this flowers?
 Salam: I am fine. I have bought them from the street.
@@ -44,5 +44,4 @@ Sohel: You are welcome.\n
 \nSumon: Thanks for your words. Moreover, the people living in the cities are not open-minded comparing with the people. They are often self-centered and do not care about their neighbours.
 \nArif: Thank you very much.
 \nSumon: You are welcome.
-
 
